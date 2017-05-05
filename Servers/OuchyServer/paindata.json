@@ -1,0 +1,10 @@
+[
+    { "date": "2017-05-01", "noon": 2, "morning": 1, "evening": 1},
+    { "date": "2017-05-02", "noon": 4, "morning": 4, "evening": 2},
+    { "date": "2017-05-03", "noon": 1, "morning": 2, "evening": 2},
+    { "date": "2017-05-04", "noon": 6, "morning": 3, "evening": 1},
+    { "date": "2017-05-05", "noon": 10, "morning": 5, "evening": 4},
+    { "date": "2017-05-06", "noon": 2, "morning": 3, "evening": 3},
+    { "date": "2017-05-07", "noon": 3, "morning": 2, "evening": 2},
+    { "date": "2017-05-08", "noon": 7, "morning": 1, "evening": 8}
+]

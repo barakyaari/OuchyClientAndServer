@@ -1,0 +1,34 @@
+{
+  "name": "Project1",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "firebase": "^3.8.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.43.3",
+    "react-native-facebook-login": "^1.5.0",
+    "react-native-firebase-auth": "^1.0.0",
+    "react-native-gifted-chat": "^0.1.4",
+    "react-native-google-sign-in": "0.0.14",
+    "react-native-multi-slider": "^0.3.5",
+    "react-native-navbar": "^1.7.1",
+    "react-native-side-menu": "^0.20.1",
+    "react-native-tabs": "^1.0.9",
+    "react-native-vector-icons": "^4.1.0",
+    "react-native-wheel-picker-android": "^0.1.10",
+    "react-navigation": "^1.0.0-beta.7"
+  },
+  "devDependencies": {
+    "babel-jest": "19.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "19.0.2",
+    "react-test-renderer": "16.0.0-alpha.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
